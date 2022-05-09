@@ -568,6 +568,7 @@ body.is-black {
     font-weight: 300;
     padding: 0.5rem;
     opacity: 0.8;
+    text-align: left;
 }
 
 @media screen and (min-width: 992px){
