@@ -584,4 +584,7 @@ body.is-black {
         position: absolute;
         right: -50px;
     }
+    skills.h1{
+      font-size: 0.5rem;
+    }
 }
