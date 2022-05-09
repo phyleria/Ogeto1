@@ -524,6 +524,7 @@ body.is-black {
 }
 .about-right h2{
     font-weight: 300;
+    font-size: medium;
     text-transform: none;
     
 }
