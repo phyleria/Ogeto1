@@ -528,13 +528,12 @@ body.is-black {
 }
 .about-btns{
     display: flex;
-    text-transform: uppercase;
     
 }
 .btn{
     border: none;
     font-size: 0.9rem;
-    text-transform: none;
+    text-transform: uppercase;
     border: none;
     border-radius: 20px;
     padding: 0.55rem 0;
