@@ -409,7 +409,7 @@ body.is-black {
     height: 100vh;
 }
 .about-left{
-    background: #000000;
+    background: #FFFFFF;
     display: flex;
     flex-direction: column;
     align-items: center;
