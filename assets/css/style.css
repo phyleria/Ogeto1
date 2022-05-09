@@ -524,6 +524,7 @@ body.is-black {
 }
 .about-right h2{
     font-weight: 600;
+    text-transform: uppercase;
 }
 .about-btns{
     display: flex;
