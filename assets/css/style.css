@@ -571,6 +571,9 @@ body.is-black {
     opacity: 0.8;
     text-align: left;
 }
+.about-para span{
+  color:#240e44
+}
 
 @media screen and (min-width: 992px){
     .about-wrapper{
