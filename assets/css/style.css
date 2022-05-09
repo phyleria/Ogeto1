@@ -516,7 +516,7 @@ body.is-black {
 }
 .about-right h1{
     font-size: 5rem;
-    text-transform: uppercase;
+    text-transform: none;
     color: #240e44;
 }
 .about-right h1 span{
