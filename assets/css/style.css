@@ -524,6 +524,7 @@ body.is-black {
 }
 .about-right h2{
     font-weight: 600;
+    text-transform: none;
     
 }
 .about-btns{
@@ -548,6 +549,7 @@ body.is-black {
     color: #fff;
     border-color: #240e44;
     transition: all 0.5s ease-in-out;
+    text-transform: uppercase;
 }
 .btn.btn-pink:hover{
     background: transparent;
